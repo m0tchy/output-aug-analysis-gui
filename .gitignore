@@ -1,0 +1,6 @@
+__pycache__/
+
+/MNIST/
+/CIFAR10/
+/models/
+/results/
